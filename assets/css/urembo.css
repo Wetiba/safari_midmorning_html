@@ -1,0 +1,13 @@
+table{
+    width: 90%;
+    border-collapse: collapse;
+    margin: 20px;
+}
+td,th{
+    border: 2px solid #9708ea;
+    padding: 15px;
+
+}
+tr:nth-child(even){
+    background-color: aqua;
+}
